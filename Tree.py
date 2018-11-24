@@ -1,5 +1,3 @@
-import queue
-import pdb
 Black = 'Black'
 Red = 'Red'
 
